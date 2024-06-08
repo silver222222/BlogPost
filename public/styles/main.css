@@ -1,0 +1,62 @@
+.indent{
+    text-indent: 2rem;
+}
+main{
+    background-color: #FEECE2; 
+    flex: 1;
+}
+.main-container{
+    flex: 1;
+}
+.write-blog-content{
+    height: 30vh;
+}
+.write-blog{
+    width: 50vw;
+}
+
+.sidebar{
+    background-color: #F7DED0;
+    height: 100%;
+    width: 100%;
+}
+.header-footer{
+    background-color: #FFBE98;
+}
+.nav-link{
+    color: #fff !important;
+}
+.container{
+    margin: 0;
+    width: 100vw;
+}
+body{
+    margin: 0;
+}
+.list-group-item.active{
+    background-color: #E2BFB3 !important;
+    border-color: #E2BFB3 !important;
+}
+.test-main{
+    background-color: aqua;
+}
+
+.icons{
+    color: #E2BFB3;
+}
+.bi-pencil-square:hover{
+    color: #A1C398;
+}
+.bi-trash:hover{
+    color: #FA7070;
+}
+.btn-primary{
+    --bs-btn-bg: #FFBE98 !important;
+    --bs-btn-border-color: #FFBE98 !important;
+    --bs-btn-hover-bg: #E2BFB3 !important;
+    --bs-btn-hover-border-color: #E2BFB3 !important;
+    --bs-btn-active-bg: #FFBE98 !important;
+    --bs-btn-active-border-color: #FFBE98 !important;
+    --bs-btn-disabled-bg: #FFBE98 !important;
+    --bs-btn-disabled-border-color: #FFBE98 !important;
+}
